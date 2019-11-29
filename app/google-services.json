@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898418093173",
+    "firebase_url": "https://nov29app.firebaseio.com",
+    "project_id": "nov29app",
+    "storage_bucket": "nov29app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898418093173:android:2bf6c9784f507c4d405c3c",
+        "android_client_info": {
+          "package_name": "com.adonis.nov29app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898418093173-pps2g12te8tao41ckbh5d292984ks3rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adonis.nov29app",
+            "certificate_hash": "cfe857e1928fb9ed9ef17718e9b450a5399cf7ff"
+          }
+        },
+        {
+          "client_id": "898418093173-7r7k3jgaue0inc1hk2qhsdl18g9m8mnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfbjDLNgQmXSb6cbVUMu5l1zFNWo1H_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898418093173-7r7k3jgaue0inc1hk2qhsdl18g9m8mnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
